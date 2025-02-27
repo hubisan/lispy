@@ -4,7 +4,8 @@
 
 ;; Author: Oleh Krehel <ohwoeowho@gmail.com>
 ;; URL: https://github.com/abo-abo/lispy
-;; Version: 0.27.0
+;; Version: 0.27.1
+;; Package-Requires: ((emacs "27.1") (zoutline "0.2.0") (hydra "0.15.0") (avy "0.5.0") (iedit "0.9.9.9.9"))
 ;; Keywords: lisp
 
 ;; This file is not part of GNU Emacs
